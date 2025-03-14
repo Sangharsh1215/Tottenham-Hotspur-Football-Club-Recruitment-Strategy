@@ -7,6 +7,8 @@ What happens when a football club loses its **most valuable player**? How do the
 
 This project explores a **data-driven recruitment strategy for Tottenham Hotspur** after selling Harry Kane, using **2021-22 player and club stats from Europe’s top 5 leagues**.  
 
+PPT video link [https://www.youtube.com/watch?v=MxU-5A8s9MQ]
+
 ## 🔍 Objectives  
 - **Squad Performance Analysis** → Identify **strengths, weaknesses & key gaps** in Tottenham’s squad.  
 - **Benchmarking vs. Top Clubs** → Compare **goal contribution, defensive stability, and midfield creativity** with elite teams.  
